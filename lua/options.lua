@@ -72,3 +72,8 @@ vim.o.scrolloff = 10
 vim.o.confirm = true
 
 -- vim: ts=2 sts=2 sw=2 et
+
+-- THIS IS MY LOCAL CUSTOM CONFIG STUFF --
+
+vim.g.mapleader = ' '
+vim.g.maplocalleader = '\\'
